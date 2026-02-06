@@ -1,0 +1,116 @@
+For NAND LOGIC
+
+Epoch 1
+Sample 1 | w=[0. 0.] | b=0.0
+Sample 2 | w=[0. 0.] | b=0.0
+Sample 3 | w=[0. 0.] | b=0.0
+Sample 4 | w=[-0.1 -0.1] | b=-0.1
+Loss=1, Accuracy=25.00%
+
+Epoch 2
+Sample 1 | w=[-0.1 -0.1] | b=0.0
+Sample 2 | w=[-0.1  0. ] | b=0.1
+Sample 3 | w=[-0.1  0. ] | b=0.1
+Sample 4 | w=[-0.2 -0.1] | b=0.0
+Loss=3, Accuracy=50.00%
+
+Epoch 3
+Sample 1 | w=[-0.2 -0.1] | b=0.0
+Sample 2 | w=[-0.2  0. ] | b=0.1
+Sample 3 | w=[-0.1  0. ] | b=0.2
+Sample 4 | w=[-0.2 -0.1] | b=0.1
+Loss=3, Accuracy=75.00%
+
+Epoch 4
+Sample 1 | w=[-0.2 -0.1] | b=0.1
+Sample 2 | w=[-0.2 -0.1] | b=0.1
+Sample 3 | w=[-0.1 -0.1] | b=0.2
+Sample 4 | w=[-0.2 -0.2] | b=0.1
+Loss=2, Accuracy=50.00%
+
+Epoch 5
+Sample 1 | w=[-0.2 -0.2] | b=0.1
+Sample 2 | w=[-0.2 -0.1] | b=0.2
+Sample 3 | w=[-0.2 -0.1] | b=0.2
+Sample 4 | w=[-0.2 -0.1] | b=0.2
+Loss=1, Accuracy=100.00%
+
+Epoch 6
+Sample 1 | w=[-0.2 -0.1] | b=0.2
+Sample 2 | w=[-0.2 -0.1] | b=0.2
+Sample 3 | w=[-0.2 -0.1] | b=0.2
+Sample 4 | w=[-0.2 -0.1] | b=0.2
+Loss=0, Accuracy=100.00%
+✅ Converged!
+
+FOR XOR LOGIC
+
+Epoch 1
+Sample 1 | w=[0. 0.] | b=-0.1
+Sample 2 | w=[0.  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.0
+Sample 4 | w=[-0.1  0. ] | b=-0.1
+Loss=3, Accuracy=50.00%
+
+Epoch 2
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=3, Accuracy=50.00%
+
+Epoch 3
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=4, Accuracy=50.00%
+
+Epoch 4
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=4, Accuracy=50.00%
+
+Epoch 5
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=4, Accuracy=50.00%
+
+Epoch 6
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=4, Accuracy=50.00%
+
+Epoch 7
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=4, Accuracy=50.00%
+
+Epoch 8
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=4, Accuracy=50.00%
+
+Epoch 9
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=4, Accuracy=50.00%
+
+Epoch 10
+Sample 1 | w=[-0.1  0. ] | b=-0.1
+Sample 2 | w=[-0.1  0.1] | b=0.0
+Sample 3 | w=[0.  0.1] | b=0.1
+Sample 4 | w=[-0.1  0. ] | b=0.0
+Loss=4, Accuracy=50.00%
