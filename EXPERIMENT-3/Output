@@ -1,21 +1,13 @@
-Epoch      Loss            Accuracy       
-----------------------------------------
-5          0.626085        0.750000       
-10         0.470859        0.750000       
-15         0.368248        0.750000       
-20         0.192270        1.000000       
-25         0.036268        1.000000       
-30         0.005451        1.000000       
-35         0.000909        1.000000       
-40         0.000238        1.000000       
-45         0.000094        1.000000       
-50         0.000051        1.000000       
+Output:-
+Epoch 0: Loss = 0.8963, Accuracy = 0.8117
+Epoch 5: Loss = 0.4123, Accuracy = 0.9016
+Epoch 10: Loss = 0.3532, Accuracy = 0.9182
+Epoch 15: Loss = 0.3189, Accuracy = 0.9276
+Epoch 20: Loss = 0.2956, Accuracy = 0.9354
+Epoch 25: Loss = 0.2773, Accuracy = 0.9415
+Epoch 30: Loss = 0.2633, Accuracy = 0.9463
+Epoch 35: Loss = 0.2519, Accuracy = 0.9503
+Epoch 40: Loss = 0.2425, Accuracy = 0.9536
+Epoch 45: Loss = 0.2347, Accuracy = 0.9568
 
-Final Accuracy: 1.0
-1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 92ms/step
-
-Predictions:
- [[4.0717867e-05]
- [1.0000000e+00]
- [9.9985582e-01]
- [2.1646935e-07]]
+Final Test Accuracy: 0.9563
